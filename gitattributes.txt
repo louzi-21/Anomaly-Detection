@@ -1,0 +1,2 @@
+# Empêche Git de convertir les scripts shell en CRLF
+*.sh text eol=lf
